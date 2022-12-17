@@ -1,382 +1,347 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
-#EXTINF:-1 xui-id="43437" tvg-id="" tvg-name="3 Familias (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn0GvRI1SbAYyt6ObBfLczKs.png" group-title="24/7 Canales",3 Familias (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2z14Hg_kAOHnJnlc8Kyinw4/ts
-#EXTINF:-1 xui-id="43367" tvg-id="" tvg-name="Ben 10 (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn3nO-NNPOZLDiIpMoPIEutQ.png" group-title="24/7 Animados",Ben 10 (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu20QTgYauGWFmBZahumbp86E/ts
-#EXTINF:-1 xui-id="44181" tvg-id="" tvg-name="Big Time Rush (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn3pGsuUMQKai-11XmBGnfAo.png" group-title="24/7 Canales",Big Time Rush (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu219xuB8SJZZpGMKlVIYq7wE/ts
-#EXTINF:-1 xui-id="43370" tvg-id="" tvg-name="Billy Y Mandy (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn2DdZtD5X-AXypqiWnLWwEI.png" group-title="24/7 Animados",Billy Y Mandy (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu281cImA98IWqU6bS1mE3kjY/ts
-#EXTINF:-1 xui-id="44193" tvg-id="" tvg-name="Bob Esponja (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn5vuUc59iCE_QyDKCJWbfIg.png" group-title="24/7 Animados",Bob Esponja (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2_1iQRljXo16o6FoFhLqMZA/ts
-#EXTINF:-1 xui-id="43436" tvg-id="" tvg-name="Arrow (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn0i9I7ZPf0l8o_-laqoS-OU.png" group-title="24/7 Canales",Arrow (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu29CN0F_kBEPEP-NgIiaK_14/ts
-#EXTINF:-1 xui-id="43313" tvg-id="" tvg-name="Baby Looney Tunes (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhny4EvXPe-wknPj_BDGD8hYw.png" group-title="24/7 Animados",Baby Looney Tunes (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2xVs4rhTvfrPl5JGkCvDlDA/ts
-#EXTINF:-1 xui-id="43369" tvg-id="" tvg-name="Barbie: Dreamhouse Adventures (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn33S4aGoPOnBjHlcQvzwBwA.png" group-title="24/7 Animados",Barbie: Dreamhouse Adventures (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2z9QKy75rUi9mlaETeqSjIs/ts
-#EXTINF:-1 xui-id="44191" tvg-id="" tvg-name="Aquellos Maravillosos Años (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn1oy8Rp67LSufsWhqNJGF3w.png" group-title="24/7 Canales",Aquellos Maravillosos Años (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu23klxfC0WOcQ4lTu-vGwyv8/ts
-#EXTINF:-1 xui-id="44182" tvg-id="" tvg-name="Bonanza (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnwW74hUzkz8xqfFGIA55IsI.png" group-title="24/7 Canales",Bonanza (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu24NmhISTLzJatNo36plgLFE/ts
-#EXTINF:-1 xui-id="43433" tvg-id="" tvg-name="Bones (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnw3Sas6xUxEDdd687BKzY_4.png" group-title="24/7 Canales",Bones (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu29h-JI-wOqmnwgb8qaoApOs/ts
-#EXTINF:-1 xui-id="43435" tvg-id="" tvg-name="Breaking Bad (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn66RsOcztvousWqqWp4vpbo.png" group-title="24/7 Canales",Breaking Bad (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2xI6I6p2XL7-HJW6GVoSTtw/ts
-#EXTINF:-1 xui-id="43371" tvg-id="" tvg-name="Buzz Lightyear (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnwzly1xTQGzgQQoqJwJhgvM.png" group-title="24/7 Animados",Buzz Lightyear (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu29fXeU5HmifTvYjCNZHrRT0/ts
-#EXTINF:-1 xui-id="43365" tvg-id="" tvg-name="Camp Lazlo (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn3XfzMIRghdXZ2hSYHKBucA.png" group-title="24/7 Animados",Camp Lazlo (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2xbpvh_qXixuEG32YZeGYoE/ts
-#EXTINF:-1 xui-id="424228" tvg-id="" tvg-name="CASO CERRADO (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn_uZT6n-fJ0izJ7N_vv7tJk.png" group-title="24/7 Canales",CASO CERRADO (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu24HzbMgo4eNRyXGYMH9GsmU/ts
-#EXTINF:-1 xui-id="44178" tvg-id="" tvg-name="Cat-Dog (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn8k2pPuH5EmzN5kJOLxJJnU.png" group-title="24/7 Animados",Cat-Dog (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2-vdjgWFGw9eMcj4HRfI5dU/ts
-#EXTINF:-1 xui-id="43428" tvg-id="" tvg-name="Chicago Fire (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnzTm7tWav051SDR8yGD2C48.png" group-title="24/7 Canales",Chicago Fire (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu21VCThSXXtbPf6WYX3Myv9Q/ts
-#EXTINF:-1 xui-id="43426" tvg-id="" tvg-name="Chicago P.D. (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn55fR9B1AIqYF6x1XuvlreA.png" group-title="24/7 Canales",Chicago P.D. (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu23cNndajakiFlgQEhLoOO3E/ts
-#EXTINF:-1 xui-id="43429" tvg-id="" tvg-name="Cobra Kai (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnyLSLHWMXMNirwNIx3wd6yI.png" group-title="24/7 Canales",Cobra Kai (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu28ZMzYmTIQ8uvk-uc9HcjvE/ts
-#EXTINF:-1 xui-id="237751" tvg-id="" tvg-name="Como dice el dicho (HD)" tvg-logo="http://nubiatv.live:80/images/VYDKs6o-7uj2nees_x8Qj8PV4dIF8QeOIbkpe7YiJHE.png" group-title="24/7 Canales",Como dice el dicho (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2xHBGSkYZ2WLu3XPEI5xgro/ts
-#EXTINF:-1 xui-id="43368" tvg-id="" tvg-name="Coraje, el perro cobarde (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn1hKXeIFzQZxydiD3oPlU5s.png" group-title="24/7 Animados",Coraje, el perro cobarde (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2094_7YvRCtWKCxWPbt7ZUc/ts
-#EXTINF:-1 xui-id="44177" tvg-id="" tvg-name="Daniel el travieso (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn9Cw3uM2ZVz9wIIYin3LdxM.png" group-title="24/7 Animados",Daniel el travieso (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2yWDzLwpXM5WUo-XS8FxJ0I/ts
-#EXTINF:-1 xui-id="43360" tvg-id="" tvg-name="Don Gato y su pandilla (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnyV4WY73aENsqI_FO73gQAw.png" group-title="24/7 Animados",Don Gato y su pandilla (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2wMSEQwmm3dtLKooPq_8SUw/ts
-#EXTINF:-1 xui-id="43359" tvg-id="" tvg-name="Dora, la exploradora (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnyZZ5zOQdmZLQbdGLiifhZ0.png" group-title="24/7 Animados",Dora, la exploradora (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu21nXGbHJj83sXeX3VNtyptQ/ts
-#EXTINF:-1 xui-id="43357" tvg-id="" tvg-name="Doraemon Nuevo (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnyohBXg3nLs3JRkeVFpitl8.png" group-title="24/7 Animados",Doraemon Nuevo (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu257GSPW0OuzpL2qO7wJeLbY/ts
-#EXTINF:-1 xui-id="43374" tvg-id="" tvg-name="Doraemon Viejo (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnyohBXg3nLs3JRkeVFpitl8.png" group-title="24/7 Animados",Doraemon Viejo (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu26pPUWXVpfZ3CFTxoE4Pxf0/ts
-#EXTINF:-1 xui-id="44183" tvg-id="" tvg-name="Dos hombres y medio (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn3zJqITN9cBJYKpkDBz6Sbo.png" group-title="24/7 Canales",Dos hombres y medio (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu26PeRPEDasn1fDJnNjBC72M/ts
-#EXTINF:-1 xui-id="43358" tvg-id="" tvg-name="Dragon Ball (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn96JwpKSAHq-nV_2q5CqBHk.png" group-title="24/7 Animados",Dragon Ball (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2y7cx9rUEWfNzBBCj8mqlFo/ts
-#EXTINF:-1 xui-id="43356" tvg-id="" tvg-name="Dragon Ball GT (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn8EhYtahrFjEFvdTc8InG5M.png" group-title="24/7 Animados",Dragon Ball GT (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2yqCO4N8Ef8oFPr8iVEziY8/ts
-#EXTINF:-1 xui-id="43399" tvg-id="" tvg-name="Dragon Ball Super (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn-zEBrdYXVn6ECG9lMZKkds.png" group-title="24/7 Animados",Dragon Ball Super (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2-SPh33EFQl6Fwnbym7PIvQ/ts
-#EXTINF:-1 xui-id="43404" tvg-id="" tvg-name="Dragon Ball Z - Saga de Cell (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn7K43IJ7uZ7ShTwZQEQTu6U.png" group-title="24/7 Animados",Dragon Ball Z - Saga de Cell (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu23p0-l1QYnAkQBSYeodYii8/ts
-#EXTINF:-1 xui-id="43402" tvg-id="" tvg-name="Dragon Ball Z - Saga de Freezer (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn_njsvR9HZ4YddhxZHY_jhw.png" group-title="24/7 Animados",Dragon Ball Z - Saga de Freezer (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2zAk2lbcFPO7QXfnGZnpB_I/ts
-#EXTINF:-1 xui-id="43405" tvg-id="" tvg-name="Dragon Ball Z - Saga De Majin Buu (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn3JnZbMovd_i85JZRIpkxV0.png" group-title="24/7 Animados",Dragon Ball Z - Saga De Majin Buu (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu25utshwSzzhTFHWzDWf0Vbw/ts
-#EXTINF:-1 xui-id="43401" tvg-id="" tvg-name="Dragon Ball Z - Saga Saiyajin (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnxS8WY7lj5ifhLIHBn53Vj4.png" group-title="24/7 Animados",Dragon Ball Z - Saga Saiyajin (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2xa0I83Fy2GZLWgHLaJKauA/ts
-#EXTINF:-1 xui-id="43417" tvg-id="" tvg-name="Drake y Josh (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn8GScRoQYzydfJfwLB05aUM.png" group-title="24/7 Canales",Drake y Josh (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2wwP8f21o8v5MRceSV6C2bg/ts
-#EXTINF:-1 xui-id="43375" tvg-id="" tvg-name="Droopy (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn8ixXJCk72yIcsqiPey4o_o.png" group-title="24/7 Animados",Droopy (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2-x_CmU2wWgOG46SozZ56vQ/ts
-#EXTINF:-1 xui-id="44176" tvg-id="" tvg-name="Ed, Edd y Eddy (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn-p7D9rk2Zjn8ZN2y9Gav8s.png" group-title="24/7 Animados",Ed, Edd y Eddy (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu27WRQsSDXV4DgQ5Bk-6qZ2c/ts
-#EXTINF:-1 xui-id="43364" tvg-id="" tvg-name="El asombroso mundo de Gumball (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn2E-PHSaglCpPKBEG5tGrrQ.png" group-title="24/7 Animados",El asombroso mundo de Gumball (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2_-KKD1reep6Sw-FtRfHlpU/ts
-#EXTINF:-1 xui-id="43431" tvg-id="" tvg-name="El Auto fantástico (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnxgNCxUQs7z2Wbd4Mp1Wdj8.png" group-title="24/7 Canales",El Auto fantástico (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu29kLr5qO9M-wNuQSlPdAnLY/ts
-#EXTINF:-1 xui-id="43361" tvg-id="" tvg-name="El Chavo animado (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn3DaZEaA65IZ2Zp9LU6Mrgo.png" group-title="24/7 Animados",El Chavo animado (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu29TBnViF579yEsDTZhNjzKs/ts
-#EXTINF:-1 xui-id="43430" tvg-id="" tvg-name="El Chavo del Ocho (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn7KIxE80I9WuyVdAxzs0MnM.png" group-title="24/7 Canales",El Chavo del Ocho (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu241rHjii5eHHWzDBLrkBoa0/ts
-#EXTINF:-1 xui-id="43372" tvg-id="" tvg-name="El Coyote Y El Correcaminos (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnxxZ7U3XxYTOsVZ1eflrLPE.png" group-title="24/7 Animados",El Coyote Y El Correcaminos (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu22bGfLB8Xwxb1azimmI143o/ts
-#EXTINF:-1 xui-id="43377" tvg-id="" tvg-name="El Gallo Claudio (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn-1Qg5cAoBESTObawFskGOg.png" group-title="24/7 Animados",El Gallo Claudio (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu20rwWZ_zAUXk9YPa43XOCDs/ts
-#EXTINF:-1 xui-id="43339" tvg-id="" tvg-name="El inspector Gadget (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn0IoHDR1lJBZm6uUwhmi4MI.png" group-title="24/7 Animados",El inspector Gadget (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu29D-Y03wQ8P-5-MKGwuW6-Y/ts
-#EXTINF:-1 xui-id="43420" tvg-id="" tvg-name="El Joven Sheldon (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn4o75z0nLksm9m91khylEVo.png" group-title="24/7 Canales",El Joven Sheldon (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu24a00DUC5_8IPeiGzVun7mA/ts
-#EXTINF:-1 xui-id="43327" tvg-id="" tvg-name="El Oasis de Oscar (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnwQDmaKurB6xf7lahr6sDEY.png" group-title="24/7 Animados",El Oasis de Oscar (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu29-H4MiO6ub6L-1UNG3ipjk/ts
-#EXTINF:-1 xui-id="43387" tvg-id="" tvg-name="El Oso Yogui (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn1FwFNMLBO2rNno3wJpDx6M.png" group-title="24/7 Animados",El Oso Yogui (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu21nI9hUtR2AVKF0NYi82tS0/ts
-#EXTINF:-1 xui-id="43381" tvg-id="" tvg-name="El Pato Donald (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn1eNlMXP-9iID9t4CdXKgfk.png" group-title="24/7 Animados",El Pato Donald (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu276sBGBaDL_ZpWew1bXIdqU/ts
-#EXTINF:-1 xui-id="43413" tvg-id="" tvg-name="El príncipe de Bel-Air (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnwwRc0JYtheHzRj0oNYVzEU.png" group-title="24/7 Canales",El príncipe de Bel-Air (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu27H1DrQnndXPWeFZZFCOqCE/ts
-#EXTINF:-1 xui-id="43366" tvg-id="" tvg-name="El Show de Bugs Bunny (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn3N4-d16jmemXyaBU8lraFo.png" group-title="24/7 Animados",El Show de Bugs Bunny (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu20MuDyYs8NXlnvad80rPuRQ/ts
-#EXTINF:-1 xui-id="43388" tvg-id="" tvg-name="El show del Pájaro Loco (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn4dXKqKJB_tmgrpWziagJz8.png" group-title="24/7 Animados",El show del Pájaro Loco (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu27mKlIBEwAa3-qUZ0HnSUCc/ts
-#EXTINF:-1 xui-id="43410" tvg-id="" tvg-name="El túnel del tiempo (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnynR9QxRZuQghqByHqI6x5w.png" group-title="24/7 Canales",El túnel del tiempo (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu29xk5OaeulpFC6IpXGP7nP0/ts
-#EXTINF:-1 xui-id="43447" tvg-id="" tvg-name="El Zorro 1957 (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn8VNI_zfTItX1Bf9jzELavk.png" group-title="24/7 Canales",El Zorro 1957 (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu20UDMhi_5KqDOaef37LYOJg/ts
-#EXTINF:-1 xui-id="181871" tvg-id="" tvg-name="Especial Navidad" tvg-logo="http://nubiatv.live:80/images/VYDKs6o-7uj2nees_x8Qj7o4Ernf8trnf80lliTNI1A.png" group-title="24/7 Canales",Especial Navidad
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu20MN6ZTo4RJ3HYuQLHKSNAE/ts
-#EXTINF:-1 xui-id="181872" tvg-id="" tvg-name="Especial Navidad Infantil" tvg-logo="http://nubiatv.live:80/images/VYDKs6o-7uj2nees_x8Qj7o4Ernf8trnf80lliTNI1A.png" group-title="24/7 Animados",Especial Navidad Infantil
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu24zngxqKmP5LjArkXnaVUTM/ts
-#EXTINF:-1 xui-id="194990" tvg-id="" tvg-name="Especial Semana Santa (HD)" tvg-logo="http://nubiatv.live:80/images/VYDKs6o-7uj2nees_x8Qjwk4qohWc3eczARGEmdTf1w.png" group-title="24/7 Canales",Especial Semana Santa (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2wERD1mrA67aYJSSiT6zcG8/ts
-#EXTINF:-1 xui-id="43376" tvg-id="" tvg-name="Fantasias De Ayer Y Hoy (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn_NtgFIZY2wAo59LS7E4Enw.png" group-title="24/7 Animados",Fantasias De Ayer Y Hoy (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2_wFlvZmjZT-UwrF7FoMAmM/ts
-#EXTINF:-1 xui-id="44192" tvg-id="" tvg-name="Friends (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn9dmDXNdOI0OnsZFVFlv1LI.png" group-title="24/7 Canales",Friends (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu27VBaa-GokcIeam12m-vBw0/ts
-#EXTINF:-1 xui-id="43423" tvg-id="" tvg-name="Hercules (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn36ZL5ASzXrFxOiFeDceSxs.png" group-title="24/7 Canales",Hercules (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2zKMeJHdA7g5acClayrh14U/ts
-#EXTINF:-1 xui-id="43421" tvg-id="" tvg-name="iCarly (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn0m0GyoytIF3Kad0tybhnx4.png" group-title="24/7 Canales",iCarly (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2-eQe_2gnZCGfrebl_1QZvk/ts
-#EXTINF:-1 xui-id="190372" tvg-id="" tvg-name="KND Los chicos del barrio (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn3-F88TnOlAYwWVeNIm49Qc.png" group-title="24/7 Animados",KND Los chicos del barrio (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu21-pDlAe7DiHrJVYjePa_x0/ts
-#EXTINF:-1 xui-id="43329" tvg-id="" tvg-name="Hora de aventura (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn5TUShuE6Kj_1r_eU45A0d4.png" group-title="24/7 Animados",Hora de aventura (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2xI3plv0wMGq78kJYAqUbCA/ts
-#EXTINF:-1 xui-id="43432" tvg-id="" tvg-name="La Casa de Papel (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn06GqI3YkSspiFiF2S_ZoFg.png" group-title="24/7 Canales",La Casa de Papel (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu29hV67MB6wJ6ol4Wi0JwkWw/ts
-#EXTINF:-1 xui-id="194980" tvg-id="" tvg-name="La ciencia de lo absurdo (HD)" tvg-logo="http://nubiatv.live:80/images/VYDKs6o-7uj2nees_x8Qj2YuVDm8MZKEDueATcLePJQ.png" group-title="24/7 Canales",La ciencia de lo absurdo (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu28eHJ_X90g6DCZmlNa9H-1c/ts
-#EXTINF:-1 xui-id="190373" tvg-id="" tvg-name="La CQ (HD)" tvg-logo="http://nubiatv.live:80/images/VYDKs6o-7uj2nees_x8Qjx0ltHlao0fXfIvw2gJIkOM.png" group-title="24/7 Canales",La CQ (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu22qUS2Tn81g-5W53Pc7-PJQ/ts
-#EXTINF:-1 xui-id="180629" tvg-id="" tvg-name="La Familia Addams (SD)" tvg-logo="http://nubiatv.live:80/images/VYDKs6o-7uj2nees_x8Qj1UK2P95GSQhUVnIcIKl3mo.png" group-title="24/7 Canales",La Familia Addams (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu29mLYkesB7rIOUQavD8Li9Q/ts
-#EXTINF:-1 xui-id="44190" tvg-id="" tvg-name="La Familia Monster (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnxuTHoqpb-aDNGMZF2A4GX0.png" group-title="24/7 Canales",La Familia Monster (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu21NVIIKA_N2VAFIvPhXrwg4/ts
-#EXTINF:-1 xui-id="18902" tvg-id="" tvg-name="La Gallina Pintadita (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn1R-8YwTt2GmHFnQgZkmYnI.png" group-title="24/7 Animados",La Gallina Pintadita (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu21moSRN-SmOkOmOIJopOlMA/ts
-#EXTINF:-1 xui-id="44174" tvg-id="" tvg-name="La hormiga atómica (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn6J5vln-tPH6z5UoekJlewc.png" group-title="24/7 Animados",La hormiga atómica (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu27fweIZyXB-3yHW6A6f3vtU/ts
-#EXTINF:-1 xui-id="43322" tvg-id="" tvg-name="La pantera Rosa (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn2fE81y_ow2wD8fu3qp1RpU.png" group-title="24/7 Animados",La pantera Rosa (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2_12I1P9tMv_-0fxULskpro/ts
-#EXTINF:-1 xui-id="43342" tvg-id="" tvg-name="Futurama (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn5BbNz6gztxTtKDbMrOtVnE.png" group-title="24/7 Animados",Futurama (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu25BIGMrWcgBdqyKY8tNF118/ts
-#EXTINF:-1 xui-id="43344" tvg-id="" tvg-name="Garfield y sus amigos (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn16kChRZ2_f8sugYTy-A8hY.png" group-title="24/7 Animados",Garfield y sus amigos (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2xETd0PGB09AKby-piCYLmA/ts
-#EXTINF:-1 xui-id="43353" tvg-id="" tvg-name="Gravity Falls (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnzB_VfvwIVEKl8xtL1wSZ1A.png" group-title="24/7 Animados",Gravity Falls (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2_YOJVW-fJ2MouNjBtav-aU/ts
-#EXTINF:-1 xui-id="43341" tvg-id="" tvg-name="Grizzy y los lemmings (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn9F0Wg3yl_mYw1DWMMMWD1M.png" group-title="24/7 Animados",Grizzy y los lemmings (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu234QU1W1NUXgmUnaN8ulqPc/ts
-#EXTINF:-1 xui-id="43418" tvg-id="" tvg-name="Hawaii 5.0 (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnyqbOFdeHowqNU5SD5phGSM.png" group-title="24/7 Canales",Hawaii 5.0 (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2zI5Gl3LB_nglWtiz98VtNM/ts
-#EXTINF:-1 xui-id="43340" tvg-id="" tvg-name="Isla Larva (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn0Tvieq-QKto9ZBSUtaj21Q.png" group-title="24/7 Animados",Isla Larva (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu225ruvYeK_eC1b5zleuj9fc/ts
-#EXTINF:-1 xui-id="43338" tvg-id="" tvg-name="Jimmy Neutron (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn6QBy61h854fffGXrb9WWb8.png" group-title="24/7 Animados",Jimmy Neutron (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu20iGAagjiXna9R0mi4ozCzc/ts
-#EXTINF:-1 xui-id="43423" tvg-id="" tvg-name="Hercules (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn36ZL5ASzXrFxOiFeDceSxs.png" group-title="24/7 Canales",Hercules (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2zKMeJHdA7g5acClayrh14U/ts
-#EXTINF:-1 xui-id="43421" tvg-id="" tvg-name="iCarly (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn0m0GyoytIF3Kad0tybhnx4.png" group-title="24/7 Canales",iCarly (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2-eQe_2gnZCGfrebl_1QZvk/ts
-#EXTINF:-1 xui-id="190372" tvg-id="" tvg-name="KND Los chicos del barrio (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn3-F88TnOlAYwWVeNIm49Qc.png" group-title="24/7 Animados",KND Los chicos del barrio (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu21-pDlAe7DiHrJVYjePa_x0/ts
-#EXTINF:-1 xui-id="43329" tvg-id="" tvg-name="Hora de aventura (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn5TUShuE6Kj_1r_eU45A0d4.png" group-title="24/7 Animados",Hora de aventura (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2xI3plv0wMGq78kJYAqUbCA/ts
-#EXTINF:-1 xui-id="43432" tvg-id="" tvg-name="La Casa de Papel (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn06GqI3YkSspiFiF2S_ZoFg.png" group-title="24/7 Canales",La Casa de Papel (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu29hV67MB6wJ6ol4Wi0JwkWw/ts
-#EXTINF:-1 xui-id="194980" tvg-id="" tvg-name="La ciencia de lo absurdo (HD)" tvg-logo="http://nubiatv.live:80/images/VYDKs6o-7uj2nees_x8Qj2YuVDm8MZKEDueATcLePJQ.png" group-title="24/7 Canales",La ciencia de lo absurdo (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu28eHJ_X90g6DCZmlNa9H-1c/ts
-#EXTINF:-1 xui-id="190373" tvg-id="" tvg-name="La CQ (HD)" tvg-logo="http://nubiatv.live:80/images/VYDKs6o-7uj2nees_x8Qjx0ltHlao0fXfIvw2gJIkOM.png" group-title="24/7 Canales",La CQ (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu22qUS2Tn81g-5W53Pc7-PJQ/ts
-#EXTINF:-1 xui-id="180629" tvg-id="" tvg-name="La Familia Addams (SD)" tvg-logo="http://nubiatv.live:80/images/VYDKs6o-7uj2nees_x8Qj1UK2P95GSQhUVnIcIKl3mo.png" group-title="24/7 Canales",La Familia Addams (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu29mLYkesB7rIOUQavD8Li9Q/ts
-#EXTINF:-1 xui-id="44190" tvg-id="" tvg-name="La Familia Monster (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnxuTHoqpb-aDNGMZF2A4GX0.png" group-title="24/7 Canales",La Familia Monster (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu21NVIIKA_N2VAFIvPhXrwg4/ts
-#EXTINF:-1 xui-id="18902" tvg-id="" tvg-name="La Gallina Pintadita (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn1R-8YwTt2GmHFnQgZkmYnI.png" group-title="24/7 Animados",La Gallina Pintadita (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu21moSRN-SmOkOmOIJopOlMA/ts
-#EXTINF:-1 xui-id="44174" tvg-id="" tvg-name="La hormiga atómica (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn6J5vln-tPH6z5UoekJlewc.png" group-title="24/7 Animados",La hormiga atómica (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu27fweIZyXB-3yHW6A6f3vtU/ts
-#EXTINF:-1 xui-id="43322" tvg-id="" tvg-name="La pantera Rosa (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn2fE81y_ow2wD8fu3qp1RpU.png" group-title="24/7 Animados",La pantera Rosa (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2_12I1P9tMv_-0fxULskpro/ts
-#EXTINF:-1 xui-id="43465" tvg-id="" tvg-name="La Rosa De Guadalupe (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnwlkqQsVY0kB_D760xBhSzQ.png" group-title="24/7 Canales",La Rosa De Guadalupe (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2xrNP3ztO0GvyLVdZZMlbqQ/ts
-#EXTINF:-1 xui-id="43378" tvg-id="" tvg-name="Larga Vida Al Rey Julien (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhny9zrLCxotof1HwCsNO3-AQ.png" group-title="24/7 Animados",Larga Vida Al Rey Julien (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu29L6DopeVIDRyAxezvIs7ow/ts
-#EXTINF:-1 xui-id="43335" tvg-id="" tvg-name="Larva (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn6X4rK3K9XQ0vtcB9XIufZ4.png" group-title="24/7 Animados",Larva (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu24iIP_aMOcKGq-fy4Z0PS-c/ts
-#EXTINF:-1 xui-id="43320" tvg-id="" tvg-name="Las aventuras del Gato con Botas (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn6iWwSu_8G8hClEWAP-qJjI.png" group-title="24/7 Animados",Las aventuras del Gato con Botas (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2-Jn3MbV6Se7KKNDLoNeel8/ts
-#EXTINF:-1 xui-id="43316" tvg-id="" tvg-name="Las Chicas Superpoderosas (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn86kqXlpe4CiEslAqbtRzqY.png" group-title="24/7 Animados",Las Chicas Superpoderosas (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu20h23sXa6sPO0oPEf9eiPYE/ts
-#EXTINF:-1 xui-id="44185" tvg-id="" tvg-name="Ley y Orden (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnwcRQ6Tjl9MqC7qWCloEqf8.png" group-title="24/7 Canales",Ley y Orden (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu29fGTk8_8rcp-iqTHqGss0s/ts
-#EXTINF:-1 xui-id="43379" tvg-id="" tvg-name="Looney Tunes Platinum (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn6ky8ZUi0enFhsZTRto0g-A.png" group-title="24/7 Animados",Looney Tunes Platinum (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2_h8o7s7h2Aj0wmVaKh42Lg/ts
-#EXTINF:-1 xui-id="43323" tvg-id="" tvg-name="Los Caballeros del Zodiaco (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn9rlMfuJjVQNSKeSReRmNYk.png" group-title="24/7 Animados",Los Caballeros del Zodiaco (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu24uZs6-eGjCLj84BRsPwHgU/ts
-#EXTINF:-1 xui-id="43380" tvg-id="" tvg-name="Los Jóvenes Titanes en Acción (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn2rAmlEpQH4XyIS2E5uCyxU.png" group-title="24/7 Animados",Los Jóvenes Titanes en Acción (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu22sboU9ANc6B-iFf5UFOFaU/ts
-#EXTINF:-1 xui-id="43425" tvg-id="" tvg-name="Los Magnificos (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn5oNE3ixczoaYln5KO8ER7I.png" group-title="24/7 Canales",Los Magnificos (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu24_0a0IJ5xvnRFyXW0p9g8I/ts
-#EXTINF:-1 xui-id="43352" tvg-id="" tvg-name="Los padrinos mágicos (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn5V3puaVoKSQbsyhjSVrSmE.png" group-title="24/7 Animados",Los padrinos mágicos (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu25lCXsO3Aa5Y211GItX_gQE/ts
-#EXTINF:-1 xui-id="43351" tvg-id="" tvg-name="Los Picapiedra (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn3-eM27o7d2_-b4XAQ4-IOA.png" group-title="24/7 Animados",Los Picapiedra (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2yf4Jahk58phqTk4Qg_n5yg/ts
-#EXTINF:-1 xui-id="43350" tvg-id="" tvg-name="Los pingüinos de Madagascar (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn77QBGt7iGiEq-EHPowMBx8.png" group-title="24/7 Animados",Los pingüinos de Madagascar (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2z57-gsBVE6-czIMG3rizJw/ts
-#EXTINF:-1 xui-id="43347" tvg-id="" tvg-name="Los Simpson 1-10 (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn0KgW9j6YhHjKa3we1XgmUI.png" group-title="24/7 Animados",Los Simpson 1-10 (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu24X_3qCzSE_5D6Yf_34lqP8/ts
-#EXTINF:-1 xui-id="43348" tvg-id="" tvg-name="Los Simpson 11-20 (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn0KgW9j6YhHjKa3we1XgmUI.png" group-title="24/7 Animados",Los Simpson 11-20 (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2xfjy57k8BKkXKmuEjkp4ME/ts
-#EXTINF:-1 xui-id="43349" tvg-id="" tvg-name="Los Simpson 21-31 (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn0KgW9j6YhHjKa3we1XgmUI.png" group-title="24/7 Animados",Los Simpson 21-31 (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2wmFStPSQYs-WQbhN8H3JMw/ts
-#EXTINF:-1 xui-id="43440" tvg-id="" tvg-name="Los Tres Chiflados (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn8MmZ-AUq9kOoASrO-s3WsQ.png" group-title="24/7 Canales",Los Tres Chiflados (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2227zn_ejDFXNFBxN7fhCNo/ts
-#EXTINF:-1 xui-id="43466" tvg-id="" tvg-name="Lo que callamos las mujeres (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn5_pfRXxqpPg6d9PjyPhAtI.png" group-title="24/7 Canales",Lo que callamos las mujeres (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu28fr-N59aQOXQUgmbLScWag/ts
-#EXTINF:-1 xui-id="43419" tvg-id="" tvg-name="MacGyver (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn3vTpOQJciXQdk3s0HLMv4I.png" group-title="24/7 Canales",MacGyver (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2zm_Zn0s8qq1WzpolQctCe0/ts
-#EXTINF:-1 xui-id="43414" tvg-id="" tvg-name="Malcolm (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn7eIRVYP8FpoHSCrCOmUPOU.png" group-title="24/7 Canales",Malcolm (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2zjGnQAUhKFnMTAmCX--y4g/ts
+
+====Animados======
 #EXTINF:-1 xui-id="43346" tvg-id="" tvg-name="Masha y el Oso (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn1H4AvOZdhV8HlXn5HLNkAY.png" group-title="24/7 Animados",Masha y el Oso (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2xQnf1Stq-O_6kdpyaN9vDw/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0yPdKmRdMsCe0msG0dAzQs8/ts
 #EXTINF:-1 xui-id="44175" tvg-id="" tvg-name="Max y Ruby (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn4Y2JY1CVyiAcB_Nc1SCyjg.png" group-title="24/7 Animados",Max y Ruby (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2ylCq9WFI_jn-V0V9Mtp6Ec/ts
-#EXTINF:-1 xui-id="44180" tvg-id="" tvg-name="MayDay: Catastrofes Aereas (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn0xGuYqV8W44UZ5eeBgC2YY.png" group-title="24/7 Canales",MayDay: Catastrofes Aereas (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu21if7-HXyeWLM0BUHWnzJH8/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0xVoFXf8U2kfK6A8xRg0J0A/ts
+#EXTINF:-1 xui-id="43313" tvg-id="" tvg-name="Baby Looney Tunes (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhny4EvXPe-wknPj_BDGD8hYw.png" group-title="24/7 Animados",Baby Looney Tunes (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy09Xd4ydQtFgGrQVgNdpMufM/ts
+#EXTINF:-1 xui-id="43369" tvg-id="" tvg-name="Barbie: Dreamhouse Adventures (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn33S4aGoPOnBjHlcQvzwBwA.png" group-title="24/7 Animados",Barbie: Dreamhouse Adventures (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy02lt_ZFpPWw0lb5FzJkjWbQ/ts
+#EXTINF:-1 xui-id="43370" tvg-id="" tvg-name="Billy Y Mandy (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn2DdZtD5X-AXypqiWnLWwEI.png" group-title="24/7 Animados",Billy Y Mandy (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy062MYrbjBJM3g2j3zVqYu00/ts
+#EXTINF:-1 xui-id="43367" tvg-id="" tvg-name="Ben 10 (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn3nO-NNPOZLDiIpMoPIEutQ.png" group-title="24/7 Animados",Ben 10 (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy02WbfutQdxBzRj2r3fM0GU8/ts
+#EXTINF:-1 xui-id="44193" tvg-id="" tvg-name="Bob Esponja (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn5vuUc59iCE_QyDKCJWbfIg.png" group-title="24/7 Animados",Bob Esponja (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0_jXfXpjuI4N-n-urINUQfs/ts
+#EXTINF:-1 xui-id="43371" tvg-id="" tvg-name="Buzz Lightyear (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnwzly1xTQGzgQQoqJwJhgvM.png" group-title="24/7 Animados",Buzz Lightyear (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0xkQcRsjNwFtGZ0b11DFs9Q/ts
+#EXTINF:-1 xui-id="43365" tvg-id="" tvg-name="Camp Lazlo (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn3XfzMIRghdXZ2hSYHKBucA.png" group-title="24/7 Animados",Camp Lazlo (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy03n7pLopa_aD6E8DsKqQHtk/ts
+#EXTINF:-1 xui-id="44178" tvg-id="" tvg-name="Cat-Dog (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn8k2pPuH5EmzN5kJOLxJJnU.png" group-title="24/7 Animados",Cat-Dog (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0_01pfAqLy2S5tm5pQzLuV4/ts
+#EXTINF:-1 xui-id="43368" tvg-id="" tvg-name="Coraje, el perro cobarde (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn1hKXeIFzQZxydiD3oPlU5s.png" group-title="24/7 Animados",Coraje, el perro cobarde (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy08rSzD_dz4zi3FB2P-MElNg/ts
+#EXTINF:-1 xui-id="44177" tvg-id="" tvg-name="Daniel el travieso (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn9Cw3uM2ZVz9wIIYin3LdxM.png" group-title="24/7 Animados",Daniel el travieso (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy057aJueCIDkyiVDCC_KNYy8/ts
+#EXTINF:-1 xui-id="43360" tvg-id="" tvg-name="Don Gato y su pandilla (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnyV4WY73aENsqI_FO73gQAw.png" group-title="24/7 Animados",Don Gato y su pandilla (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0xWsGh_BdJLdqTrbKfTaXnE/ts
+#EXTINF:-1 xui-id="43359" tvg-id="" tvg-name="Dora, la exploradora (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnyZZ5zOQdmZLQbdGLiifhZ0.png" group-title="24/7 Animados",Dora, la exploradora (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0wQHaYQZsC0ejQNWzvR03q4/ts
+#EXTINF:-1 xui-id="43357" tvg-id="" tvg-name="Doraemon Nuevo (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnyohBXg3nLs3JRkeVFpitl8.png" group-title="24/7 Animados",Doraemon Nuevo (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0wU6Fy4ugsogkaet3Z06d7M/ts
+#EXTINF:-1 xui-id="43374" tvg-id="" tvg-name="Doraemon Viejo (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnyohBXg3nLs3JRkeVFpitl8.png" group-title="24/7 Animados",Doraemon Viejo (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy06Z_oyJoJTQn-AJmt9xDNis/ts
+#EXTINF:-1 xui-id="43358" tvg-id="" tvg-name="Dragon Ball (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn96JwpKSAHq-nV_2q5CqBHk.png" group-title="24/7 Animados",Dragon Ball (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0zeXeE_33-JIHOjeB2Qzj5Y/ts
+#EXTINF:-1 xui-id="43356" tvg-id="" tvg-name="Dragon Ball GT (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn8EhYtahrFjEFvdTc8InG5M.png" group-title="24/7 Animados",Dragon Ball GT (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0yfjoFLxO3hfjePobVdkc50/ts
+#EXTINF:-1 xui-id="43399" tvg-id="" tvg-name="Dragon Ball Super (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn-zEBrdYXVn6ECG9lMZKkds.png" group-title="24/7 Animados",Dragon Ball Super (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0_BaYI9IyOkNMzwMd01r6C8/ts
+#EXTINF:-1 xui-id="43404" tvg-id="" tvg-name="Dragon Ball Z - Saga de Cell (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn7K43IJ7uZ7ShTwZQEQTu6U.png" group-title="24/7 Animados",Dragon Ball Z - Saga de Cell (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy051Uo34o0z811uJwdvJqfns/ts
+#EXTINF:-1 xui-id="43402" tvg-id="" tvg-name="Dragon Ball Z - Saga de Freezer (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn_njsvR9HZ4YddhxZHY_jhw.png" group-title="24/7 Animados",Dragon Ball Z - Saga de Freezer (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy01dCxTe7Ja8LLbyQxvjfc28/ts
+#EXTINF:-1 xui-id="43405" tvg-id="" tvg-name="Dragon Ball Z - Saga De Majin Buu (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn3JnZbMovd_i85JZRIpkxV0.png" group-title="24/7 Animados",Dragon Ball Z - Saga De Majin Buu (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0yPVN_vMrjdz5oCul2Okeu8/ts
+#EXTINF:-1 xui-id="43401" tvg-id="" tvg-name="Dragon Ball Z - Saga Saiyajin (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnxS8WY7lj5ifhLIHBn53Vj4.png" group-title="24/7 Animados",Dragon Ball Z - Saga Saiyajin (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy09U-YEwt3jnxn5h26v32lfY/ts
+#EXTINF:-1 xui-id="43375" tvg-id="" tvg-name="Droopy (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn8ixXJCk72yIcsqiPey4o_o.png" group-title="24/7 Animados",Droopy (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy07ZmyUHohARS9H1aYzKxuXw/ts
+#EXTINF:-1 xui-id="44176" tvg-id="" tvg-name="Ed, Edd y Eddy (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn-p7D9rk2Zjn8ZN2y9Gav8s.png" group-title="24/7 Animados",Ed, Edd y Eddy (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy05lCd4ba7mIxZg_G-BfWLXY/ts
+#EXTINF:-1 xui-id="43364" tvg-id="" tvg-name="El asombroso mundo de Gumball (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn2E-PHSaglCpPKBEG5tGrrQ.png" group-title="24/7 Animados",El asombroso mundo de Gumball (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0_xohe4bMNcc7JPLtSq4IFw/ts
+#EXTINF:-1 xui-id="43361" tvg-id="" tvg-name="El Chavo animado (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn3DaZEaA65IZ2Zp9LU6Mrgo.png" group-title="24/7 Animados",El Chavo animado (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy09iBfvemUKnZlAlBIjhSu50/ts
+#EXTINF:-1 xui-id="43372" tvg-id="" tvg-name="El Coyote Y El Correcaminos (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnxxZ7U3XxYTOsVZ1eflrLPE.png" group-title="24/7 Animados",El Coyote Y El Correcaminos (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy01RCctvMeE4J-hoLkyzkADk/ts
+#EXTINF:-1 xui-id="43377" tvg-id="" tvg-name="El Gallo Claudio (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn-1Qg5cAoBESTObawFskGOg.png" group-title="24/7 Animados",El Gallo Claudio (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy09O8y66rZZq7mta1ThEChxk/ts
+#EXTINF:-1 xui-id="43339" tvg-id="" tvg-name="El inspector Gadget (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn0IoHDR1lJBZm6uUwhmi4MI.png" group-title="24/7 Animados",El inspector Gadget (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy05VRaIzfBnX8ANAkv4DL1uU/ts
+#EXTINF:-1 xui-id="43327" tvg-id="" tvg-name="El Oasis de Oscar (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnwQDmaKurB6xf7lahr6sDEY.png" group-title="24/7 Animados",El Oasis de Oscar (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy01OUfc9OMfKqtr1VEHlyRdw/ts
+#EXTINF:-1 xui-id="43387" tvg-id="" tvg-name="El Oso Yogui (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn1FwFNMLBO2rNno3wJpDx6M.png" group-title="24/7 Animados",El Oso Yogui (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy07k66rlwZXaJFPZG1FlK1GQ/ts
+#EXTINF:-1 xui-id="43381" tvg-id="" tvg-name="El Pato Donald (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn1eNlMXP-9iID9t4CdXKgfk.png" group-title="24/7 Animados",El Pato Donald (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy01jA33ccOIZdAf9UWwuyv_U/ts
+#EXTINF:-1 xui-id="43366" tvg-id="" tvg-name="El Show de Bugs Bunny (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn3N4-d16jmemXyaBU8lraFo.png" group-title="24/7 Animados",El Show de Bugs Bunny (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy02hRgM_zJPtTsvfrwoR_D-s/ts
+#EXTINF:-1 xui-id="43388" tvg-id="" tvg-name="El show del Pájaro Loco (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn4dXKqKJB_tmgrpWziagJz8.png" group-title="24/7 Animados",El show del Pájaro Loco (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0zZp2RXw2zzE_PoeKIPH1HY/ts
+#EXTINF:-1 xui-id="181872" tvg-id="" tvg-name="Especial Navidad Infantil" tvg-logo="http://nubiatv.live:80/images/VYDKs6o-7uj2nees_x8Qj7o4Ernf8trnf80lliTNI1A.png" group-title="24/7 Animados",Especial Navidad Infantil
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy00sb_GK96yy8QM-EyIforaY/ts
+#EXTINF:-1 xui-id="43376" tvg-id="" tvg-name="Fantasias De Ayer Y Hoy (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn_NtgFIZY2wAo59LS7E4Enw.png" group-title="24/7 Animados",Fantasias De Ayer Y Hoy (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy05eX88CxrfuUlottuczONso/ts
+#EXTINF:-1 xui-id="43342" tvg-id="" tvg-name="Futurama (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn5BbNz6gztxTtKDbMrOtVnE.png" group-title="24/7 Animados",Futurama (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0yLunEzKV9YLYZqMPYjxlx0/ts
+#EXTINF:-1 xui-id="43344" tvg-id="" tvg-name="Garfield y sus amigos (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn16kChRZ2_f8sugYTy-A8hY.png" group-title="24/7 Animados",Garfield y sus amigos (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0zrn1vfZs23xpGpKSiLd-3Y/ts
+#EXTINF:-1 xui-id="43353" tvg-id="" tvg-name="Gravity Falls (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnzB_VfvwIVEKl8xtL1wSZ1A.png" group-title="24/7 Animados",Gravity Falls (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy09Bgn3xtTTAkUaCHOLD5MQQ/ts
+#EXTINF:-1 xui-id="43341" tvg-id="" tvg-name="Grizzy y los lemmings (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn9F0Wg3yl_mYw1DWMMMWD1M.png" group-title="24/7 Animados",Grizzy y los lemmings (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy00WQ_sZ0SYe0UCU0IU-UYuc/ts
+#EXTINF:-1 xui-id="43329" tvg-id="" tvg-name="Hora de aventura (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn5TUShuE6Kj_1r_eU45A0d4.png" group-title="24/7 Animados",Hora de aventura (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy04CDQbztrk_-2bAym52t3UA/ts
+#EXTINF:-1 xui-id="43340" tvg-id="" tvg-name="Isla Larva (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn0Tvieq-QKto9ZBSUtaj21Q.png" group-title="24/7 Animados",Isla Larva (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0_T_MhgtCPlSsazQUs4MgzY/ts
+#EXTINF:-1 xui-id="43338" tvg-id="" tvg-name="Jimmy Neutron (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn6QBy61h854fffGXrb9WWb8.png" group-title="24/7 Animados",Jimmy Neutron (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy02A1jP4xjysmaDlg0fCYku8/ts
+#EXTINF:-1 xui-id="190372" tvg-id="" tvg-name="KND Los chicos del barrio (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn3-F88TnOlAYwWVeNIm49Qc.png" group-title="24/7 Animados",KND Los chicos del barrio (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy02ajpBEJBruOQejjmca2CaM/ts
+#EXTINF:-1 xui-id="18902" tvg-id="" tvg-name="La Gallina Pintadita (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn1R-8YwTt2GmHFnQgZkmYnI.png" group-title="24/7 Animados",La Gallina Pintadita (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy06UB-nkU-ETntwHaSH4IcBY/ts
+#EXTINF:-1 xui-id="44174" tvg-id="" tvg-name="La hormiga atómica (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn6J5vln-tPH6z5UoekJlewc.png" group-title="24/7 Animados",La hormiga atómica (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0wTwkUmvbwfvv-PgLR0wlW0/ts
+#EXTINF:-1 xui-id="43322" tvg-id="" tvg-name="La pantera Rosa (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn2fE81y_ow2wD8fu3qp1RpU.png" group-title="24/7 Animados",La pantera Rosa (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0-DJdOtKF35yEKY60jQQoMo/ts
+#EXTINF:-1 xui-id="43378" tvg-id="" tvg-name="Larga Vida Al Rey Julien (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhny9zrLCxotof1HwCsNO3-AQ.png" group-title="24/7 Animados",Larga Vida Al Rey Julien (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy03xaamYCvtEaB7UocgYRovs/ts
+#EXTINF:-1 xui-id="43335" tvg-id="" tvg-name="Larva (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn6X4rK3K9XQ0vtcB9XIufZ4.png" group-title="24/7 Animados",Larva (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0xBQANFUieQZU7TJjr3G8f0/ts
+#EXTINF:-1 xui-id="43320" tvg-id="" tvg-name="Las aventuras del Gato con Botas (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn6iWwSu_8G8hClEWAP-qJjI.png" group-title="24/7 Animados",Las aventuras del Gato con Botas (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy04Td8h76O93euO5-umU55ok/ts
+#EXTINF:-1 xui-id="43316" tvg-id="" tvg-name="Las Chicas Superpoderosas (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn86kqXlpe4CiEslAqbtRzqY.png" group-title="24/7 Animados",Las Chicas Superpoderosas (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0wqsp2aaTw0YI2itCndWpxk/ts
+#EXTINF:-1 xui-id="43379" tvg-id="" tvg-name="Looney Tunes Platinum (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn6ky8ZUi0enFhsZTRto0g-A.png" group-title="24/7 Animados",Looney Tunes Platinum (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy06-UT_5H7I3UgC_1zDnd7HM/ts
+#EXTINF:-1 xui-id="43323" tvg-id="" tvg-name="Los Caballeros del Zodiaco (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn9rlMfuJjVQNSKeSReRmNYk.png" group-title="24/7 Animados",Los Caballeros del Zodiaco (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy07UxV77ySch5oClbjoOYTow/ts
+#EXTINF:-1 xui-id="43380" tvg-id="" tvg-name="Los Jóvenes Titanes en Acción (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn2rAmlEpQH4XyIS2E5uCyxU.png" group-title="24/7 Animados",Los Jóvenes Titanes en Acción (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0-UldXxm46k6UEcQbrj39nE/ts
+#EXTINF:-1 xui-id="43352" tvg-id="" tvg-name="Los padrinos mágicos (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn5V3puaVoKSQbsyhjSVrSmE.png" group-title="24/7 Animados",Los padrinos mágicos (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0542zberMBEXyoWhDU8ptHs/ts
+#EXTINF:-1 xui-id="43351" tvg-id="" tvg-name="Los Picapiedra (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn3-eM27o7d2_-b4XAQ4-IOA.png" group-title="24/7 Animados",Los Picapiedra (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy00s5b_LxRh2Hn8ji4L8P3cQ/ts
+#EXTINF:-1 xui-id="43350" tvg-id="" tvg-name="Los pingüinos de Madagascar (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn77QBGt7iGiEq-EHPowMBx8.png" group-title="24/7 Animados",Los pingüinos de Madagascar (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy00kexppyr6d-38rP1dE7qy0/ts
+#EXTINF:-1 xui-id="43347" tvg-id="" tvg-name="Los Simpson 1-10 (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn0KgW9j6YhHjKa3we1XgmUI.png" group-title="24/7 Animados",Los Simpson 1-10 (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy07uorpd32oM1CzBUqrqhxT4/ts
+#EXTINF:-1 xui-id="43348" tvg-id="" tvg-name="Los Simpson 11-20 (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn0KgW9j6YhHjKa3we1XgmUI.png" group-title="24/7 Animados",Los Simpson 11-20 (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy08DX59mEXx3jQYo9l0NofUc/ts
+#EXTINF:-1 xui-id="43349" tvg-id="" tvg-name="Los Simpson 21-31 (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn0KgW9j6YhHjKa3we1XgmUI.png" group-title="24/7 Animados",Los Simpson 21-31 (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0xpCSBD2sHTK9uq0jL0Ybic/ts
 #EXTINF:-1 xui-id="43334" tvg-id="" tvg-name="Medabots (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn_7TOKm--0-htNMmA0Ammtc.png" group-title="24/7 Animados",Medabots (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2wMM2RurZL65NLqeL92rLmU/ts
-#EXTINF:-1 xui-id="43416" tvg-id="" tvg-name="Mi bella genio (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn1sZEtA6adqnDO3ShC-fcRQ.png" group-title="24/7 Canales",Mi bella genio (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu21YtXW0qcHb-UJcDK6ejG7s/ts
-#EXTINF:-1 xui-id="43441" tvg-id="" tvg-name="Mi Recinto (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnzB2ZUMYe9KtnnwNz6Hq7Qw.png" group-title="24/7 Canales",Mi Recinto (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu26qozpM3jdDIaaVps35YCDc/ts
-#EXTINF:-1 xui-id="43448" tvg-id="" tvg-name="Movies Arnold Schwarzenegger (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn6KTCtUN-V6sSteE4vg0gjI.png" group-title="24/7 Canales",Movies Arnold Schwarzenegger (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu21GioMOWpZWS46HN4EwjaWc/ts
-#EXTINF:-1 xui-id="191702" tvg-id="" tvg-name="Movies Cantinflas (HD)" tvg-logo="http://nubiatv.live:80/images/VYDKs6o-7uj2nees_x8QjwvTznpDFwEMIquVE9w23DA.png" group-title="24/7 Canales",Movies Cantinflas (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu20gsogEdJzeXpEoVLZuquoc/ts
-#EXTINF:-1 xui-id="43449" tvg-id="" tvg-name="Movies Chuck Norris (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn4cxOzuUtMqZCPcxnE-OOLI.png" group-title="24/7 Canales",Movies Chuck Norris (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu29xH8F4bsdzbKHLO3v7-j-4/ts
-#EXTINF:-1 xui-id="43450" tvg-id="" tvg-name="Movies DC (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnyTH7cn_mBZPH85tNEjiLeI.png" group-title="24/7 Canales",Movies DC (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu29VdkL8aQ6fQO_Eztq6kH6A/ts
-#EXTINF:-1 xui-id="43457" tvg-id="" tvg-name="Movies Dragon Ball (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnyOwmUtjbkGsJn34YRrAffk.png" group-title="24/7 Animados",Movies Dragon Ball (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu23ctLu4kJQJNJUReRnjmigM/ts
-#EXTINF:-1 xui-id="43451" tvg-id="" tvg-name="Movies Dreamworks (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn0-xJZN7M4pLVeowLOGyAxk.png" group-title="24/7 Animados",Movies Dreamworks (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu26bujfT9UKn5V4JeE3UnmjY/ts
-#EXTINF:-1 xui-id="194979" tvg-id="" tvg-name="Movies Eddie Murphy (HD)" tvg-logo="http://nubiatv.live:80/images/VYDKs6o-7uj2nees_x8QjzDyCzJbzhckqS2tLYPyIqE.png" group-title="24/7 Canales",Movies Eddie Murphy (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu21X80eXcJyyMwjsYSjkVYiw/ts
-#EXTINF:-1 xui-id="43452" tvg-id="" tvg-name="Movies Jackie Chan (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn6QRNqyXskNAglR2zZvlYvo.png" group-title="24/7 Canales",Movies Jackie Chan (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu25ecLIp8jyzI3uTl8RCTvEo/ts
-#EXTINF:-1 xui-id="43453" tvg-id="" tvg-name="Movies Jason Statham (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn2NgUaDTY7fYw7oIkaDPk-M.png" group-title="24/7 Canales",Movies Jason Statham (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2zinFchpWhol8U5KEBfpWc4/ts
-#EXTINF:-1 xui-id="43463" tvg-id="" tvg-name="Movies Jean Claude Van Damme (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn4VbRdYWBqBSgcsR-_C1AEQ.png" group-title="24/7 Canales",Movies Jean Claude Van Damme (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu27GpfQCx_93rZTmaaLfGGJo/ts
-#EXTINF:-1 xui-id="43454" tvg-id="" tvg-name="Movies Jet Li (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn6uqDzPu9FdBTDE9XdXKPCM.png" group-title="24/7 Canales",Movies Jet Li (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2x3_-4HIllfmVLJSItTnXNs/ts
-#EXTINF:-1 xui-id="43455" tvg-id="" tvg-name="Movies Jim Carrey (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn82TPMiVy4cKhwJvbWoxx2s.png" group-title="24/7 Canales",Movies Jim Carrey (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu219x8xm52dx1RaWhdJWYrt4/ts
-#EXTINF:-1 xui-id="191703" tvg-id="" tvg-name="Movies Liam Neeson (HD)" tvg-logo="http://nubiatv.live:80/images/VYDKs6o-7uj2nees_x8QjxdVcCYMwS-vX1vwb_HE82s.png" group-title="24/7 Canales",Movies Liam Neeson (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu26-altzZjh6IxPQtg0Kba1Q/ts
-#EXTINF:-1 xui-id="43456" tvg-id="" tvg-name="Movies Marvel (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnzIYAxl6ijFp5r33pniQwX0.png" group-title="24/7 Canales",Movies Marvel (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu29_xXazOJANkRb3v7hHCrb4/ts
-#EXTINF:-1 xui-id="43467" tvg-id="" tvg-name="Movies Pistoleros del viejo oeste (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn2VZVpBPKkk8GpKE8xoxVcc.png" group-title="24/7 Canales",Movies Pistoleros del viejo oeste (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2xwTTzbvSZJBu39MJ5U86ug/ts
-#EXTINF:-1 xui-id="43459" tvg-id="" tvg-name="Movies Pixar Animacion (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn45ycUB3kwkxgk60JFAl3gA.png" group-title="24/7 Animados",Movies Pixar Animacion (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu25D9b0bV_S6sys6PL-hAhJ0/ts
-#EXTINF:-1 xui-id="43382" tvg-id="" tvg-name="Movies Pokemon (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn9qHmrtOF12toVMIoL-OzLQ.png" group-title="24/7 Animados",Movies Pokemon (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu240beaCzSPCdVIyW431l9qE/ts
-#EXTINF:-1 xui-id="43460" tvg-id="" tvg-name="Movies Silvester Stallone (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn96oLUBiG5KEH1A9wF0bBZc.png" group-title="24/7 Canales",Movies Silvester Stallone (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2ylvL5Uh80DkKYQIq4kFx_w/ts
-#EXTINF:-1 xui-id="43461" tvg-id="" tvg-name="Movies Steven Seagal (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn6TrdGlYtrClI-t6stmUpc8.png" group-title="24/7 Canales",Movies Steven Seagal (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2zSSNYnlP4SEfZu5-4b89H4/ts
-#EXTINF:-1 xui-id="43462" tvg-id="" tvg-name="Movies Tom Cruise (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn089YBTm4wJ2tpUHw5sjz0A.png" group-title="24/7 Canales",Movies Tom Cruise (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu29JVC8BZ880nrUEBTgc_5Bs/ts
-#EXTINF:-1 xui-id="43464" tvg-id="" tvg-name="Movies Walt Disney (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn13xF61FrozJ_Zr3pI4qGOs.png" group-title="24/7 Animados",Movies Walt Disney (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu22BDq12vNeXuKvJYHpghbyM/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy03GrBRt9Pftl50hN6bpIVAQ/ts
 #EXTINF:-1 xui-id="43332" tvg-id="" tvg-name="Miraculous: Las aventuras de Ladybug (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn2NRgeLrE-WLyVS5PLM3gHI.png" group-title="24/7 Animados",Miraculous: Las aventuras de Ladybug (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu20XpEYBBy3LhnoUjCFt52bo/ts
-#EXTINF:-1 xui-id="43458" tvg-id="" tvg-name="Narcos y Sicarios (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn7XBJyRd7mHVwAhLgronkFg.png" group-title="24/7 Canales",Narcos y Sicarios (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2xE5GAmWnyPVmQaU3fBrPTA/ts
-#EXTINF:-1 xui-id="43328" tvg-id="" tvg-name="Naruto (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn08dKrJkfQqGSdjQ9Va2e4I.png" group-title="24/7 Animados",Naruto (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2xhEVLli7oLC-Bjw1VDuARs/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0xszSueglm7fAU5TrK3kV6k/ts
+#EXTINF:-1 xui-id="43457" tvg-id="" tvg-name="Movies Dragon Ball (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnyOwmUtjbkGsJn34YRrAffk.png" group-title="24/7 Animados",Movies Dragon Ball (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0_GmLCHHyoQSNa3m-ovRRAQ/ts
+#EXTINF:-1 xui-id="43451" tvg-id="" tvg-name="Movies Dreamworks (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn0-xJZN7M4pLVeowLOGyAxk.png" group-title="24/7 Animados",Movies Dreamworks (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0-puBEZyIeLWuM_5iZuKxX0/ts
+#EXTINF:-1 xui-id="43459" tvg-id="" tvg-name="Movies Pixar Animacion (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn45ycUB3kwkxgk60JFAl3gA.png" group-title="24/7 Animados",Movies Pixar Animacion (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy00fcdxG5DuPSilkfvkg17FY/ts
+#EXTINF:-1 xui-id="43382" tvg-id="" tvg-name="Movies Pokemon (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn9qHmrtOF12toVMIoL-OzLQ.png" group-title="24/7 Animados",Movies Pokemon (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0ybNVW25aUbL1yuMLdknlaU/ts
+#EXTINF:-1 xui-id="43464" tvg-id="" tvg-name="Movies Walt Disney (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn13xF61FrozJ_Zr3pI4qGOs.png" group-title="24/7 Animados",Movies Walt Disney (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy09qBvwHYAI_HjDtHHITBDSg/ts
 #EXTINF:-1 xui-id="43331" tvg-id="" tvg-name="My Little Pony: La magia de la amistad (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnwD5sx1Xh0KNun6_8zxJoTs.png" group-title="24/7 Animados",My Little Pony: La magia de la amistad (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu28atoMOf1WJpHBJU1QiHaSQ/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy00XdzS9HxITI32CI4wyKZrk/ts
 #EXTINF:-1 xui-id="43330" tvg-id="" tvg-name="Nanatsu no Taizai (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn7HpJoWbR9ZOQnBcC4Z3Ds4.png" group-title="24/7 Animados",Nanatsu no Taizai (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2zWV2FHoNsX4sGt12lpjo9c/ts
-#EXTINF:-1 xui-id="43396" tvg-id="" tvg-name="Tom y Jerry (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn2DQA-j9t464GlqXJGDjE5U.png" group-title="24/7 Animados",Tom y Jerry (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu29QI297O2kD8sKZKiY7aqMQ/ts
-#EXTINF:-1 xui-id="43397" tvg-id="" tvg-name="Tom Y Jerry Kids (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn1gBtCxSsCVF_MRL1VU64nQ.png" group-title="24/7 Animados",Tom Y Jerry Kids (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu23pxl6fWQUIVZHeQfpt4v5c/ts
-#EXTINF:-1 xui-id="44184" tvg-id="" tvg-name="That 70s Show (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn5pDMPjCColmJzV1ToFST_E.png" group-title="24/7 Canales",That 70s Show (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu25f2c_9eenGV0VG-M7c_1wQ/ts
-#EXTINF:-1 xui-id="249428" tvg-id="" tvg-name="The big bang theory (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn4JKyrDAf5T6olbqeJEe8aA.png" group-title="24/7 Canales",The big bang theory (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2_FgsmxrsxqAHRoS8oJPiAU/ts
-#EXTINF:-1 xui-id="43422" tvg-id="" tvg-name="The Flash (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn8nsnjM-Y2W6mYfzWw6ZK-o.png" group-title="24/7 Canales",The Flash (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu29aoEXHM7IjOFRpKDfvOkys/ts
-#EXTINF:-1 xui-id="43424" tvg-id="" tvg-name="The Good Doctor (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn7rzKdrUQdUN5RzvbrB1pyE.png" group-title="24/7 Canales",The Good Doctor (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu22CffaxqXiV_R5z9nBhFNcc/ts
-#EXTINF:-1 xui-id="43408" tvg-id="" tvg-name="The Walking Dead (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnxnHhRUEdC1UlYT5F8MkQWI.png" group-title="24/7 Canales",The Walking Dead (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu24V7ENErTR_VwF5kSrXHHZk/ts
-#EXTINF:-1 xui-id="44179" tvg-id="" tvg-name="ThunderCats (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn0bqVcFuMYR5cQyy2M-r0QI.png" group-title="24/7 Animados",ThunderCats (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu24dfUDYoUqlsZTR7-O7m8YU/ts
-#EXTINF:-1 xui-id="43398" tvg-id="" tvg-name="Un Show Mas (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn_J5lwVq_iadXWAGpfppYUM.png" group-title="24/7 Animados",Un Show Mas (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2xzXzchYSam5FyXZ4uxUH8I/ts
-#EXTINF:-1 xui-id="43445" tvg-id="" tvg-name="Vivos (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn6NP32xFAMVgq-_WPrYyVP8.png" group-title="24/7 Canales",Vivos (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu29HjISRUUrRdlcycD6LKkU8/ts
-#EXTINF:-1 xui-id="43446" tvg-id="" tvg-name="Walker Ranger De Texas (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn9pL3t68M0YOrFa55iXOJ2s.png" group-title="24/7 Canales",Walker Ranger De Texas (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2-j2UMwYup9NtMs28PDgIhA/ts
-#EXTINF:-1 xui-id="182376" tvg-id="" tvg-name="WWE (HD)" tvg-logo="http://nubiatv.live:80/images/VYDKs6o-7uj2nees_x8Qj_AFiiH0FP0u8XEjbwPF_Ao.png" group-title="24/7 Canales",WWE (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu206w8w8oIm_m7d9D97adHB0/ts
-#EXTINF:-1 xui-id="43406" tvg-id="" tvg-name="Xena, la princesa guerrera (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn0sWdk6Vyr9nH-6KFtBSUZw.png" group-title="24/7 Canales",Xena, la princesa guerrera (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu29YQsy3v6bR44UAZ52CFiEA/ts
-#EXTINF:-1 xui-id="43407" tvg-id="" tvg-name="Zoey 101 (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnxwKS103tUpMzIFkkLAfdpA.png" group-title="24/7 Canales",Zoey 101 (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2xbGTKs950T4RtZ5y87iva4/ts
-#EXTINF:-1 xui-id="43326" tvg-id="" tvg-name="¡Oye, Arnold! (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn9oC1gZco0FVu-0VjYewg34.png" group-title="24/7 Animados",¡Oye, Arnold! (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu27X1y8GLaGQim7DCrREvZAM/ts
-#EXTINF:-1 xui-id="43311" tvg-id="" tvg-name="¿Qué hay de nuevo, Scooby-Doo? (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnyahsEzK9eJXXwDguP6mcgE.png" group-title="24/7 Animados",¿Qué hay de nuevo, Scooby-Doo? (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu21tahjbWhnWBGDLEn2IH_JA/ts
-#EXTINF:-1 xui-id="43427" tvg-id="" tvg-name="Élite (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn8nXoEyG6hZrY2fRUq__j9Q.png" group-title="24/7 Canales",Élite (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2wdujaVffZT6N5FZuWz7P60/ts
-#EXTINF:-1 xui-id="43321" tvg-id="" tvg-name="Peppa Pig (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhny916bxUriLrpRMHM7epwNU.png" group-title="24/7 Animados",Peppa Pig (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2wh0_wIL-31X_F8h1Z6G4sY/ts
-#EXTINF:-1 xui-id="44170" tvg-id="" tvg-name="Phineas y Ferb (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnwzVh_mTN8-3NORBWjA7Qt0.png" group-title="24/7 Animados",Phineas y Ferb (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu20f8DQsyWfxW54a1vLEFdCA/ts
-#EXTINF:-1 xui-id="44169" tvg-id="" tvg-name="Pinky y Cerebro (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn22LRNtgmXtzd87Cz8_Tevc.png" group-title="24/7 Animados",Pinky y Cerebro (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2zF1qcd4fEXKnz8MFwdFjuM/ts
-#EXTINF:-1 xui-id="44168" tvg-id="" tvg-name="Pocoyó (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnyT6dtdMGJMuzMahEEYYea0.png" group-title="24/7 Animados",Pocoyó (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu21ANoC2Tjg73DCjqRwLLTss/ts
-#EXTINF:-1 xui-id="43315" tvg-id="" tvg-name="Popeye (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn6_8Gjry_HbJFbrqUvT0UTk.png" group-title="24/7 Animados",Popeye (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu22cmh_toiANWurEyU7vs9h8/ts
-#EXTINF:-1 xui-id="43383" tvg-id="" tvg-name="Power Rangers (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn0NNnG-7MsPiQgFY47ClqFU.png" group-title="24/7 Animados",Power Rangers (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu29Bgu0fkJhlQBnaZIlYVEP0/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy07hT-0nmdYPRpnc4CL34O1E/ts
+#EXTINF:-1 xui-id="43328" tvg-id="" tvg-name="Naruto (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn08dKrJkfQqGSdjQ9Va2e4I.png" group-title="24/7 Animados",Naruto (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0yKzf6giRZMz0mZSzPO-IaM/ts
 #EXTINF:-1 xui-id="44171" tvg-id="" tvg-name="Ozzy y Drix (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn0ylRrIETuirTzxeYbd0pLc.png" group-title="24/7 Animados",Ozzy y Drix (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2zzbGq2CkV1v-U7jl7j3Kys/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy09RSdKlzz4-zSu1scx2kaP8/ts
 #EXTINF:-1 xui-id="43324" tvg-id="" tvg-name="Padre de familia (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnxzFkZp7AuTsbjkGSMHXsLY.png" group-title="24/7 Animados",Padre de familia (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2-8oEi4A_NT1W8TbhL5Rb_g/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0zXv6gqzvcYv-lF1PTc6BOE/ts
 #EXTINF:-1 xui-id="43321" tvg-id="" tvg-name="Peppa Pig (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhny916bxUriLrpRMHM7epwNU.png" group-title="24/7 Animados",Peppa Pig (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2wh0_wIL-31X_F8h1Z6G4sY/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0x19gQ3esCfLFbFp2z3iEjM/ts
 #EXTINF:-1 xui-id="44170" tvg-id="" tvg-name="Phineas y Ferb (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnwzVh_mTN8-3NORBWjA7Qt0.png" group-title="24/7 Animados",Phineas y Ferb (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu20f8DQsyWfxW54a1vLEFdCA/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy007XjI-PMQkxfLq5Ae8tECA/ts
 #EXTINF:-1 xui-id="44169" tvg-id="" tvg-name="Pinky y Cerebro (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn22LRNtgmXtzd87Cz8_Tevc.png" group-title="24/7 Animados",Pinky y Cerebro (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2zF1qcd4fEXKnz8MFwdFjuM/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0wVgksBXbWFouHj_QMK80ZM/ts
 #EXTINF:-1 xui-id="44168" tvg-id="" tvg-name="Pocoyó (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnyT6dtdMGJMuzMahEEYYea0.png" group-title="24/7 Animados",Pocoyó (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu21ANoC2Tjg73DCjqRwLLTss/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy04paeVi3MG_rZ6MWkpDGCGE/ts
 #EXTINF:-1 xui-id="43315" tvg-id="" tvg-name="Popeye (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn6_8Gjry_HbJFbrqUvT0UTk.png" group-title="24/7 Animados",Popeye (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu22cmh_toiANWurEyU7vs9h8/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy01iYS35wWOtWoW9Ifzeg2Cs/ts
 #EXTINF:-1 xui-id="43383" tvg-id="" tvg-name="Power Rangers (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn0NNnG-7MsPiQgFY47ClqFU.png" group-title="24/7 Animados",Power Rangers (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu29Bgu0fkJhlQBnaZIlYVEP0/ts
-#EXTINF:-1 xui-id="190374" tvg-id="" tvg-name="Replay ¡Aunque ud no lo crea! (HD)" tvg-logo="http://nubiatv.live:80/images/VYDKs6o-7uj2nees_x8Qj_5za0ArLtvctaxwAJY5QK8.png" group-title="24/7 Canales",Replay ¡Aunque ud no lo crea! (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2243aSaMcWuKT0BO2mHVOm0/ts
-#EXTINF:-1 xui-id="43385" tvg-id="" tvg-name="Ricky Y Morty (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn8FGtm7y1PDiY4IllKtYWY8.png" group-title="24/7 Animados",Ricky Y Morty (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2wTm0U53GdkU2D-7sdxmOT0/ts
-#EXTINF:-1 xui-id="43386" tvg-id="" tvg-name="Scooby-Doo y Scrappy-Doo (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn8eoUVZOg2R09bDrfmiJAlw.png" group-title="24/7 Animados",Scooby-Doo y Scrappy-Doo (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2yjg_w_c_0Rvr9XFG_2Ni8I/ts
-#EXTINF:-1 xui-id="43389" tvg-id="" tvg-name="Simon (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn815JHjCrxSKlbC3zh0cK80.png" group-title="24/7 Animados",Simon (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2-73a-k-2QRk7x_rPEkA8h4/ts
-#EXTINF:-1 xui-id="43409" tvg-id="" tvg-name="Smallville (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn51IfGtpNQOaczIArqUYyu0.png" group-title="24/7 Canales",Smallville (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu24_uMU-MnGLdUnBVzWzQpG8/ts
-#EXTINF:-1 xui-id="43412" tvg-id="" tvg-name="Stranger Things (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn0jbbMSJIakeFeL-pHivacE.png" group-title="24/7 Canales",Stranger Things (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2zZ6bPmC-8yMXNL8IOo1Axs/ts
-#EXTINF:-1 xui-id="43391" tvg-id="" tvg-name="Super Campeones (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn7O9Rz9UuNlZY-gjXSLrnmU.png" group-title="24/7 Animados",Super Campeones (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu21c6IJbsfy1BhXfnvH5owgs/ts
-#EXTINF:-1 xui-id="43392" tvg-id="" tvg-name="Super Jett (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn1a-uBnL9HE4p1mSqsEOSRQ.png" group-title="24/7 Animados",Super Jett (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2_sR_hQMgAmTbu0p8ZXYsfI/ts
-#EXTINF:-1 xui-id="43415" tvg-id="" tvg-name="NCIS: Los Ángeles (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnx4eCHUANWJvucYIOzfPsk4.png" group-title="24/7 Canales",NCIS: Los Ángeles (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu27-TA4Y0aeHEC6Lc3zSdlWQ/ts
-#EXTINF:-1 xui-id="43442" tvg-id="" tvg-name="Need Manual De Supervivencia (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn8pK9OUm0I6xE1zY_AbHvL8.png" group-title="24/7 Canales",Need Manual De Supervivencia (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu21A11SZWKsPyRu1oMd4_3jQ/ts
-#EXTINF:-1 xui-id="43393" tvg-id="" tvg-name="Talking Tom and Friends (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn0PAOcEwp_02-t7CcZGC5aE.png" group-title="24/7 Animados",Talking Tom and Friends (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu256MSsWVSOeORU0Us5GVa_Y/ts
-#EXTINF:-1 xui-id="43394" tvg-id="" tvg-name="Taz-Mania (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn9ksE-HfPbvzkFqcvDumM9w.png" group-title="24/7 Animados",Taz-Mania (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu268nUnVRz61Dr2f1MxEz8Fw/ts
-#EXTINF:-1 xui-id="43411" tvg-id="" tvg-name="Prison Break (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnxz0x-XXBkupB1Sl32VjLi0.png" group-title="24/7 Canales",Prison Break (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2-VU6WSuj3WuSw3S3WVlOHU/ts
-#EXTINF:-1 xui-id="181694" tvg-id="" tvg-name="PUNTO 2 (SD)" tvg-logo="https://imgur.com/4F5af7X.png" group-title="Puerto Rico",PUNTO 2 (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu267aSKhaqi_C_UFCowYwUq8/ts
-#EXTINF:-1 xui-id="43443" tvg-id="" tvg-name="Puro Teatro (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn4ZnnsSwEGmUJ3OQH_vcrhU.png" group-title="24/7 Canales",Puro Teatro (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu26y2nvAotaBPUp_EkshmOEw/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0xtGpA8j-aw0STCTYZJ7QQo/ts
 #EXTINF:-1 xui-id="43310" tvg-id="" tvg-name="Ranma ½ (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnyzDxwAAx7uML69GATT7X0U.png" group-title="24/7 Animados",Ranma ½ (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu26GlHsFNHTY4jnzy34tnaHk/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy06jyI__PJwvGj3wUGXEiybQ/ts
+#EXTINF:-1 xui-id="43385" tvg-id="" tvg-name="Ricky Y Morty (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn8FGtm7y1PDiY4IllKtYWY8.png" group-title="24/7 Animados",Ricky Y Morty (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0_g2nvLsFIJ2EUxmSYxx5dY/ts
+#EXTINF:-1 xui-id="43386" tvg-id="" tvg-name="Scooby-Doo y Scrappy-Doo (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn8eoUVZOg2R09bDrfmiJAlw.png" group-title="24/7 Animados",Scooby-Doo y Scrappy-Doo (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy00uj12gTn16AniPMR7_9kvk/ts#EXTINF:-1 xui-id="43389" tvg-id="" tvg-name="Simon (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn815JHjCrxSKlbC3zh0cK80.png" group-title="24/7 Animados",Simon (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy06e0aKjjGbgZ7f_enE0aOD8/ts
+#EXTINF:-1 xui-id="43391" tvg-id="" tvg-name="Super Campeones (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn7O9Rz9UuNlZY-gjXSLrnmU.png" group-title="24/7 Animados",Super Campeones (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy01JOUyNUCfFNc9KZtErCvSE/ts
+#EXTINF:-1 xui-id="43392" tvg-id="" tvg-name="Super Jett (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn1a-uBnL9HE4p1mSqsEOSRQ.png" group-title="24/7 Animados",Super Jett (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0w-2DMoF_HpFzXas59QKBCo/ts
+#EXTINF:-1 xui-id="43393" tvg-id="" tvg-name="Talking Tom and Friends (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn0PAOcEwp_02-t7CcZGC5aE.png" group-title="24/7 Animados",Talking Tom and Friends (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy072Beg-YFLk5kDgr-edMw6E/ts
+#EXTINF:-1 xui-id="43394" tvg-id="" tvg-name="Taz-Mania (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn9ksE-HfPbvzkFqcvDumM9w.png" group-title="24/7 Animados",Taz-Mania (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0ygOU1f-9u655IztlloRgMU/ts
 #EXTINF:-1 xui-id="43336" tvg-id="" tvg-name="Teen Titans (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnxEMEs_5ycGJWPRZgFo3A2k.png" group-title="24/7 Animados",Teen Titans (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2wdZ6p9KxQg3_4tUekarBkY/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy091NgbF0PaLECByQb4Fct5U/ts
+#EXTINF:-1 xui-id="44179" tvg-id="" tvg-name="ThunderCats (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn0bqVcFuMYR5cQyy2M-r0QI.png" group-title="24/7 Animados",ThunderCats (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy07lUiPXiUKqtWgZgVS55tgU/ts
+#EXTINF:-1 xui-id="43396" tvg-id="" tvg-name="Tom y Jerry (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn2DQA-j9t464GlqXJGDjE5U.png" group-title="24/7 Animados",Tom y Jerry (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0z5TvuHZZq6Qu9h_b9sVLNE/ts
+#EXTINF:-1 xui-id="43397" tvg-id="" tvg-name="Tom Y Jerry Kids (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn1gBtCxSsCVF_MRL1VU64nQ.png" group-title="24/7 Animados",Tom Y Jerry Kids (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0-EXaIlG76v0oijeVPZB504/ts
+#EXTINF:-1 xui-id="43398" tvg-id="" tvg-name="Un Show Mas (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn_J5lwVq_iadXWAGpfppYUM.png" group-title="24/7 Animados",Un Show Mas (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy03HDdk7cboPaiULrebu1dzw/ts
+#EXTINF:-1 xui-id="43326" tvg-id="" tvg-name="¡Oye, Arnold! (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn9oC1gZco0FVu-0VjYewg34.png" group-title="24/7 Animados",¡Oye, Arnold! (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0y00OD4xFcVNnGr9qYaG0tc/ts
+#EXTINF:-1 xui-id="43311" tvg-id="" tvg-name="¿Qué hay de nuevo, Scooby-Doo? (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnyahsEzK9eJXXwDguP6mcgE.png" group-title="24/7 Animados",¿Qué hay de nuevo, Scooby-Doo? (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0wYIDB216qxwXV4H7LnATds/ts
+
+======Canales=======
 #EXTINF:-1 xui-id="43444" tvg-id="" tvg-name="Sexo en La Ciudad (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn10pg6Q6cbzo0X0Gn_e1ykk.png" group-title="24/7 Canales",Sexo en La Ciudad (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2ymXbY8-E9aYBn1GV81GMJU/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0_nXd57t6hLrtkpoORWAeJ8/ts
+#EXTINF:-1 xui-id="43427" tvg-id="" tvg-name="Élite (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn8nXoEyG6hZrY2fRUq__j9Q.png" group-title="24/7 Canales",Élite (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy01H4_yChx-L6M8LgBfeuiao/ts
+#EXTINF:-1 xui-id="43407" tvg-id="" tvg-name="Zoey 101 (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnxwKS103tUpMzIFkkLAfdpA.png" group-title="24/7 Canales",Zoey 101 (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy08hqkRuCeJv7eZzCRCiVRhM/ts
+#EXTINF:-1 xui-id="43406" tvg-id="" tvg-name="Xena, la princesa guerrera (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn0sWdk6Vyr9nH-6KFtBSUZw.png" group-title="24/7 Canales",Xena, la princesa guerrera (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0_4P48BTOPEBB0krjRooYyc/ts
+#EXTINF:-1 xui-id="182376" tvg-id="" tvg-name="WWE (HD)" tvg-logo="http://nubiatv.live:80/images/VYDKs6o-7uj2nees_x8Qj_AFiiH0FP0u8XEjbwPF_Ao.png" group-title="24/7 Canales",WWE (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy05bMfPkZqeRxWFaBofpoNn0/ts
+#EXTINF:-1 xui-id="43446" tvg-id="" tvg-name="Walker Ranger De Texas (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn9pL3t68M0YOrFa55iXOJ2s.png" group-title="24/7 Canales",Walker Ranger De Texas (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy01sGRPhUW6YOs4Tsnhe-x0A/ts
+#EXTINF:-1 xui-id="43445" tvg-id="" tvg-name="Vivos (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn6NP32xFAMVgq-_WPrYyVP8.png" group-title="24/7 Canales",Vivos (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0-kXpkjgXLyBnymqcHkiZW8/ts
+#EXTINF:-1 xui-id="44184" tvg-id="" tvg-name="That 70s Show (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn5pDMPjCColmJzV1ToFST_E.png" group-title="24/7 Canales",That 70s Show (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0_KSXseYVx_G3igG3dnjpBg/ts
+#EXTINF:-1 xui-id="249428" tvg-id="" tvg-name="The big bang theory (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn4JKyrDAf5T6olbqeJEe8aA.png" group-title="24/7 Canales",The big bang theory (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy03yzhPtMa0J452GgumUyqQY/ts
+#EXTINF:-1 xui-id="43422" tvg-id="" tvg-name="The Flash (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn8nsnjM-Y2W6mYfzWw6ZK-o.png" group-title="24/7 Canales",The Flash (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy09seHRQc5er9too4w-h40oo/ts
+#EXTINF:-1 xui-id="43424" tvg-id="" tvg-name="The Good Doctor (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn7rzKdrUQdUN5RzvbrB1pyE.png" group-title="24/7 Canales",The Good Doctor (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy05z1V04vFuVPYWVKEAipXnQ/ts
+#EXTINF:-1 xui-id="43408" tvg-id="" tvg-name="The Walking Dead (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnxnHhRUEdC1UlYT5F8MkQWI.png" group-title="24/7 Canales",The Walking Dead (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0yQ-dMp9OYIKPHQRi6XnVtc/ts
+#EXTINF:-1 xui-id="43412" tvg-id="" tvg-name="Stranger Things (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn0jbbMSJIakeFeL-pHivacE.png" group-title="24/7 Canales",Stranger Things (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy015ywIdd_fbul4XLycO3les/ts
+#EXTINF:-1 xui-id="43409" tvg-id="" tvg-name="Smallville (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn51IfGtpNQOaczIArqUYyu0.png" group-title="24/7 Canales",Smallville (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy07vD4eU9E6u6Uyh-7Fw3Dhs/ts
+#EXTINF:-1 xui-id="190374" tvg-id="" tvg-name="Replay ¡Aunque ud no lo crea! (HD)" tvg-logo="http://nubiatv.live:80/images/VYDKs6o-7uj2nees_x8Qj_5za0ArLtvctaxwAJY5QK8.png" group-title="24/7 Canales",Replay ¡Aunque ud no lo crea! (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0-iwa1klE86ss6Nvei3t0dE/ts
+#EXTINF:-1 xui-id="43411" tvg-id="" tvg-name="Prison Break (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnxz0x-XXBkupB1Sl32VjLi0.png" group-title="24/7 Canales",Prison Break (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy05xkTyhJc1m-PT4Jbmb9wNE/ts
+#EXTINF:-1 xui-id="43443" tvg-id="" tvg-name="Puro Teatro (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn4ZnnsSwEGmUJ3OQH_vcrhU.png" group-title="24/7 Canales",Puro Teatro (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0zkoon67SWzVmOVjYcwT0QY/ts
+#EXTINF:-1 xui-id="43415" tvg-id="" tvg-name="NCIS: Los Ángeles (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnx4eCHUANWJvucYIOzfPsk4.png" group-title="24/7 Canales",NCIS: Los Ángeles (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy06BeIZDtJISbHLhpxv0gpOc/ts
+#EXTINF:-1 xui-id="43442" tvg-id="" tvg-name="Need Manual De Supervivencia (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn8pK9OUm0I6xE1zY_AbHvL8.png" group-title="24/7 Canales",Need Manual De Supervivencia (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy03_dVqqGlhWsoJAH4PYitF4/ts
+#EXTINF:-1 xui-id="43458" tvg-id="" tvg-name="Narcos y Sicarios (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn7XBJyRd7mHVwAhLgronkFg.png" group-title="24/7 Canales",Narcos y Sicarios (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy00GiqPsWK7h5ZVrLSAbgwcU/ts
+#EXTINF:-1 xui-id="43460" tvg-id="" tvg-name="Movies Silvester Stallone (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn96oLUBiG5KEH1A9wF0bBZc.png" group-title="24/7 Canales",Movies Silvester Stallone (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy01CRQa5EenV5Td6WPtKjdss/ts
+#EXTINF:-1 xui-id="43461" tvg-id="" tvg-name="Movies Steven Seagal (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn6TrdGlYtrClI-t6stmUpc8.png" group-title="24/7 Canales",Movies Steven Seagal (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy05ANpsJb2G4HPrTXbycXuWo/ts
+#EXTINF:-1 xui-id="43462" tvg-id="" tvg-name="Movies Tom Cruise (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn089YBTm4wJ2tpUHw5sjz0A.png" group-title="24/7 Canales",Movies Tom Cruise (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0zdRxYJJg5mQavSTYdnz9dE/ts
+#EXTINF:-1 xui-id="194979" tvg-id="" tvg-name="Movies Eddie Murphy (HD)" tvg-logo="http://nubiatv.live:80/images/VYDKs6o-7uj2nees_x8QjzDyCzJbzhckqS2tLYPyIqE.png" group-title="24/7 Canales",Movies Eddie Murphy (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0zwnqGOyuKKLzy5fZPKpQLI/ts
+#EXTINF:-1 xui-id="43452" tvg-id="" tvg-name="Movies Jackie Chan (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn6QRNqyXskNAglR2zZvlYvo.png" group-title="24/7 Canales",Movies Jackie Chan (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0xCmxXuiOozJJ0RF945uxNM/ts
+#EXTINF:-1 xui-id="43453" tvg-id="" tvg-name="Movies Jason Statham (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn2NgUaDTY7fYw7oIkaDPk-M.png" group-title="24/7 Canales",Movies Jason Statham (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0_b6KG9J9sHoN94ZnCno0e8/ts
+#EXTINF:-1 xui-id="43463" tvg-id="" tvg-name="Movies Jean Claude Van Damme (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn4VbRdYWBqBSgcsR-_C1AEQ.png" group-title="24/7 Canales",Movies Jean Claude Van Damme (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0yPa7FBPbUGDZCA8jUmkzaw/ts
+#EXTINF:-1 xui-id="43454" tvg-id="" tvg-name="Movies Jet Li (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn6uqDzPu9FdBTDE9XdXKPCM.png" group-title="24/7 Canales",Movies Jet Li (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy04eN-tUDv1GjyFTxMU63cao/ts
+#EXTINF:-1 xui-id="43455" tvg-id="" tvg-name="Movies Jim Carrey (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn82TPMiVy4cKhwJvbWoxx2s.png" group-title="24/7 Canales",Movies Jim Carrey (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0-SJExRt1t771e9j8PmZNyk/ts
+#EXTINF:-1 xui-id="191703" tvg-id="" tvg-name="Movies Liam Neeson (HD)" tvg-logo="http://nubiatv.live:80/images/VYDKs6o-7uj2nees_x8QjxdVcCYMwS-vX1vwb_HE82s.png" group-title="24/7 Canales",Movies Liam Neeson (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy08wLz0x5_WXY54KNi6p2T08/ts
+#EXTINF:-1 xui-id="43456" tvg-id="" tvg-name="Movies Marvel (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnzIYAxl6ijFp5r33pniQwX0.png" group-title="24/7 Canales",Movies Marvel (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy00OkGkA_qjo0O4g6M4FZCjY/ts
+#EXTINF:-1 xui-id="43467" tvg-id="" tvg-name="Movies Pistoleros del viejo oeste (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn2VZVpBPKkk8GpKE8xoxVcc.png" group-title="24/7 Canales",Movies Pistoleros del viejo oeste (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy072HbEuNQJFSvmcc4rpLfkk/ts
+#EXTINF:-1 xui-id="43448" tvg-id="" tvg-name="Movies Arnold Schwarzenegger (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn6KTCtUN-V6sSteE4vg0gjI.png" group-title="24/7 Canales",Movies Arnold Schwarzenegger (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy05LIHYHb0G9sxe4bYSeuepo/ts
+#EXTINF:-1 xui-id="191702" tvg-id="" tvg-name="Movies Cantinflas (HD)" tvg-logo="http://nubiatv.live:80/images/VYDKs6o-7uj2nees_x8QjwvTznpDFwEMIquVE9w23DA.png" group-title="24/7 Canales",Movies Cantinflas (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy054n7B9yoZ0_AgXrIzQmQy0/ts
+#EXTINF:-1 xui-id="43449" tvg-id="" tvg-name="Movies Chuck Norris (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn4cxOzuUtMqZCPcxnE-OOLI.png" group-title="24/7 Canales",Movies Chuck Norris (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy05VJBNexPRdJS4SZWPvrk3Y/ts
+#EXTINF:-1 xui-id="43450" tvg-id="" tvg-name="Movies DC (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnyTH7cn_mBZPH85tNEjiLeI.png" group-title="24/7 Canales",Movies DC (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy08XGG7YmavOUjSRgR_3gxtk/ts
+#EXTINF:-1 xui-id="43416" tvg-id="" tvg-name="Mi bella genio (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn1sZEtA6adqnDO3ShC-fcRQ.png" group-title="24/7 Canales",Mi bella genio (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy07bvUMmlSzz_nCigC_FESjo/ts
+#EXTINF:-1 xui-id="43441" tvg-id="" tvg-name="Mi Recinto (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnzB2ZUMYe9KtnnwNz6Hq7Qw.png" group-title="24/7 Canales",Mi Recinto (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0wqt2pmHmy6XCAssdFibpa4/ts
+#EXTINF:-1 xui-id="44180" tvg-id="" tvg-name="MayDay: Catastrofes Aereas (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn0xGuYqV8W44UZ5eeBgC2YY.png" group-title="24/7 Canales",MayDay: Catastrofes Aereas (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0xZWtnfR-_VJWJsaKTwg47M/ts
+#EXTINF:-1 xui-id="43419" tvg-id="" tvg-name="MacGyver (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn3vTpOQJciXQdk3s0HLMv4I.png" group-title="24/7 Canales",MacGyver (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy07W7AcqPn_tomi6HRP28OLI/ts
+#EXTINF:-1 xui-id="43414" tvg-id="" tvg-name="Malcolm (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn7eIRVYP8FpoHSCrCOmUPOU.png" group-title="24/7 Canales",Malcolm (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy03y-gu6VxrncZ9w2kMaiVTM/ts
+#EXTINF:-1 xui-id="43425" tvg-id="" tvg-name="Los Magnificos (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn5oNE3ixczoaYln5KO8ER7I.png" group-title="24/7 Canales",Los Magnificos (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0-nOiHxXYzm_LZjXkngzaGU/ts
+#EXTINF:-1 xui-id="43440" tvg-id="" tvg-name="Los Tres Chiflados (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn8MmZ-AUq9kOoASrO-s3WsQ.png" group-title="24/7 Canales",Los Tres Chiflados (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy03u9K2cJheXaSzHMWpCkiLQ/ts
+#EXTINF:-1 xui-id="43466" tvg-id="" tvg-name="Lo que callamos las mujeres (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn5_pfRXxqpPg6d9PjyPhAtI.png" group-title="24/7 Canales",Lo que callamos las mujeres (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy01QbMazltbc_GFv8PWOah14/ts
+#EXTINF:-1 xui-id="44185" tvg-id="" tvg-name="Ley y Orden (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnwcRQ6Tjl9MqC7qWCloEqf8.png" group-title="24/7 Canales",Ley y Orden (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy04Gs1Hn-N4MzZ66kEuqmAlo/ts
+#EXTINF:-1 xui-id="43465" tvg-id="" tvg-name="La Rosa De Guadalupe (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnwlkqQsVY0kB_D760xBhSzQ.png" group-title="24/7 Canales",La Rosa De Guadalupe (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy09dE111vc2hK6aVQg3Lp8yo/ts
+#EXTINF:-1 xui-id="43432" tvg-id="" tvg-name="La Casa de Papel (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn06GqI3YkSspiFiF2S_ZoFg.png" group-title="24/7 Canales",La Casa de Papel (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy010Fzbz8AgwBhWlQnOXgfiw/ts
+#EXTINF:-1 xui-id="194980" tvg-id="" tvg-name="La ciencia de lo absurdo (HD)" tvg-logo="http://nubiatv.live:80/images/VYDKs6o-7uj2nees_x8Qj2YuVDm8MZKEDueATcLePJQ.png" group-title="24/7 Canales",La ciencia de lo absurdo (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy08fdOf2ZDnzqvofjdkc7f8E/ts
+#EXTINF:-1 xui-id="190373" tvg-id="" tvg-name="La CQ (HD)" tvg-logo="http://nubiatv.live:80/images/VYDKs6o-7uj2nees_x8Qjx0ltHlao0fXfIvw2gJIkOM.png" group-title="24/7 Canales",La CQ (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy00ithqVMyr3RU3wmhaaxnDY/ts
+#EXTINF:-1 xui-id="180629" tvg-id="" tvg-name="La Familia Addams (SD)" tvg-logo="http://nubiatv.live:80/images/VYDKs6o-7uj2nees_x8Qj1UK2P95GSQhUVnIcIKl3mo.png" group-title="24/7 Canales",La Familia Addams (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0yCfDNUQKv9gGcUUSy4STWQ/ts
+#EXTINF:-1 xui-id="44190" tvg-id="" tvg-name="La Familia Monster (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnxuTHoqpb-aDNGMZF2A4GX0.png" group-title="24/7 Canales",La Familia Monster (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy08KJUENmfWwh7BT0xnqar0k/ts
+#EXTINF:-1 xui-id="43421" tvg-id="" tvg-name="iCarly (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn0m0GyoytIF3Kad0tybhnx4.png" group-title="24/7 Canales",iCarly (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy00AOeCUf0-45KKUgCQoG3c8/ts
+#EXTINF:-1 xui-id="43423" tvg-id="" tvg-name="Hercules (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn36ZL5ASzXrFxOiFeDceSxs.png" group-title="24/7 Canales",Hercules (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0wacAVfc_o3Qdg3mrnSSvdg/ts
+#EXTINF:-1 xui-id="43418" tvg-id="" tvg-name="Hawaii 5.0 (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnyqbOFdeHowqNU5SD5phGSM.png" group-title="24/7 Canales",Hawaii 5.0 (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy020cx97sPFdSRVrHKWI_WqQ/ts
+#EXTINF:-1 xui-id="44192" tvg-id="" tvg-name="Friends (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn9dmDXNdOI0OnsZFVFlv1LI.png" group-title="24/7 Canales",Friends (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0-Q5-NyobtdQRWYhcBtAe4E/ts
+#EXTINF:-1 xui-id="181871" tvg-id="" tvg-name="Especial Navidad" tvg-logo="http://nubiatv.live:80/images/VYDKs6o-7uj2nees_x8Qj7o4Ernf8trnf80lliTNI1A.png" group-title="24/7 Canales",Especial Navidad
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy07YPvrYKMfUcyOqXTIQcwn4/ts
+#EXTINF:-1 xui-id="194990" tvg-id="" tvg-name="Especial Semana Santa (HD)" tvg-logo="http://nubiatv.live:80/images/VYDKs6o-7uj2nees_x8Qjwk4qohWc3eczARGEmdTf1w.png" group-title="24/7 Canales",Especial Semana Santa (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0xwkhNSyJIanA6-yV3UztEo/ts
+#EXTINF:-1 xui-id="43410" tvg-id="" tvg-name="El túnel del tiempo (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnynR9QxRZuQghqByHqI6x5w.png" group-title="24/7 Canales",El túnel del tiempo (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy01FF5Y2j4izG3wJl3Jp1q18/ts
+#EXTINF:-1 xui-id="43447" tvg-id="" tvg-name="El Zorro 1957 (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn8VNI_zfTItX1Bf9jzELavk.png" group-title="24/7 Canales",El Zorro 1957 (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy06z7W7mGSVoq0jcQeeaYeMs/ts
+#EXTINF:-1 xui-id="43413" tvg-id="" tvg-name="El príncipe de Bel-Air (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnwwRc0JYtheHzRj0oNYVzEU.png" group-title="24/7 Canales",El príncipe de Bel-Air (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy07VvIwGYBkUB3NDw_5C6ZD8/ts
+#EXTINF:-1 xui-id="43420" tvg-id="" tvg-name="El Joven Sheldon (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn4o75z0nLksm9m91khylEVo.png" group-title="24/7 Canales",El Joven Sheldon (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy03iSMFBgNPAg95RR5qGnEpU/ts
+#EXTINF:-1 xui-id="43430" tvg-id="" tvg-name="El Chavo del Ocho (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn7KIxE80I9WuyVdAxzs0MnM.png" group-title="24/7 Canales",El Chavo del Ocho (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy05fvznvgKx4EugbyxIHkxoA/ts
+#EXTINF:-1 xui-id="43431" tvg-id="" tvg-name="El Auto fantástico (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnxgNCxUQs7z2Wbd4Mp1Wdj8.png" group-title="24/7 Canales",El Auto fantástico (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy09jkgC_DTEmuDuX3SuoKRvM/ts
+#EXTINF:-1 xui-id="44183" tvg-id="" tvg-name="Dos hombres y medio (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn3zJqITN9cBJYKpkDBz6Sbo.png" group-title="24/7 Canales",Dos hombres y medio (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy07IAEFmJfGN5iAjgUoND4Ow/ts
+#EXTINF:-1 xui-id="43417" tvg-id="" tvg-name="Drake y Josh (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn8GScRoQYzydfJfwLB05aUM.png" group-title="24/7 Canales",Drake y Josh (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy04mYKFUU_3KXhtN70NRkGJ0/ts
+#EXTINF:-1 xui-id="43437" tvg-id="" tvg-name="3 Familias (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn0GvRI1SbAYyt6ObBfLczKs.png" group-title="24/7 Canales",3 Familias (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0xWUNDTi4YSOHaD8k7kZXHc/ts
+#EXTINF:-1 xui-id="44191" tvg-id="" tvg-name="Aquellos Maravillosos Años (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn1oy8Rp67LSufsWhqNJGF3w.png" group-title="24/7 Canales",Aquellos Maravillosos Años (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy04PDSP_f6CgCZ6XfVjsEyDo/ts
+#EXTINF:-1 xui-id="43436" tvg-id="" tvg-name="Arrow (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn0i9I7ZPf0l8o_-laqoS-OU.png" group-title="24/7 Canales",Arrow (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0y4hRuGgWpHBjH-f5cdzbYE/ts
+#EXTINF:-1 xui-id="44181" tvg-id="" tvg-name="Big Time Rush (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn3pGsuUMQKai-11XmBGnfAo.png" group-title="24/7 Canales",Big Time Rush (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0_bzmCaoiB4hm9X91Nte48w/ts
+#EXTINF:-1 xui-id="44182" tvg-id="" tvg-name="Bonanza (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnwW74hUzkz8xqfFGIA55IsI.png" group-title="24/7 Canales",Bonanza (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy00JMjYeTIPhANFL6-rHJuCE/ts
+#EXTINF:-1 xui-id="43433" tvg-id="" tvg-name="Bones (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnw3Sas6xUxEDdd687BKzY_4.png" group-title="24/7 Canales",Bones (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy05X7f_qPrq8Ux0TI_Vs405s/ts
+#EXTINF:-1 xui-id="43435" tvg-id="" tvg-name="Breaking Bad (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn66RsOcztvousWqqWp4vpbo.png" group-title="24/7 Canales",Breaking Bad (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0wlrvhX09VF6hswkvlCiedI/ts
+#EXTINF:-1 xui-id="424228" tvg-id="" tvg-name="CASO CERRADO (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn_uZT6n-fJ0izJ7N_vv7tJk.png" group-title="24/7 Canales",CASO CERRADO (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy08wLtR4QWgtmizuudzFArWs/ts
+#EXTINF:-1 xui-id="43428" tvg-id="" tvg-name="Chicago Fire (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnzTm7tWav051SDR8yGD2C48.png" group-title="24/7 Canales",Chicago Fire (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy06uXXBpv6OxzA4pY3iCPRjY/ts
+#EXTINF:-1 xui-id="43426" tvg-id="" tvg-name="Chicago P.D. (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn55fR9B1AIqYF6x1XuvlreA.png" group-title="24/7 Canales",Chicago P.D. (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0xwzSuywsyoulEN4WvQh2CQ/ts
+#EXTINF:-1 xui-id="43429" tvg-id="" tvg-name="Cobra Kai (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnyLSLHWMXMNirwNIx3wd6yI.png" group-title="24/7 Canales",Cobra Kai (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy02O6Xcs4UyL8-VHCrU-OkrA/ts
+#EXTINF:-1 xui-id="237751" tvg-id="" tvg-name="Como dice el dicho (HD)" tvg-logo="http://nubiatv.live:80/images/VYDKs6o-7uj2nees_x8Qj8PV4dIF8QeOIbkpe7YiJHE.png" group-title="24/7 Canales",Como dice el dicho (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy07AHOcpvpMNwa-XxrrdNX20/ts
